@@ -16,7 +16,7 @@ public class HelloController {
 	
 	@GetMapping("/top")
 	public String top() {
-		return "<h1><b>Turma 68 é topppp!</b>";
+		return "<h1><b>Turma 68 é topppp!</b></h1>";
 	}
 
 }
